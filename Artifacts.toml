@@ -1,0 +1,6 @@
+[zarray]
+git-tree-sha1 = "9c32e03626e7075047d2f949c7a449bb73755ab6"
+
+    [[zarray.download]]
+    sha256 = "00ec82ddf34fc121e7c29369dc838cd1535b524fe756e32d6fedb0fc68f95e86"
+    url = "https://github.com/JuliaBinaryWrappers/zarray_jll.jl/releases/download/zarray-v0.1.0+0/zarray.v0.1.0.any.tar.gz"
